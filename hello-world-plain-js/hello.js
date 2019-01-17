@@ -1,1 +1,2 @@
-alert("Hello Separated Script File!!!")
+let message = "Hello Separated Script File!!!" 
+alert(message)
